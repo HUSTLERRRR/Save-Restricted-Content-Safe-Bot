@@ -78,11 +78,9 @@ python3 -m Safe_repo
 - if you want to stop bot, then enter `screen -r Safe_repo` and to kill screen enter `screen -S Safe_repo -X quit`.
 
 
-## Deploy your bot on `heroku`
-
-» Method - 1:
-- Star the repo, and fork it in desktop mode
-- Click on  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+CHUTIYA H SALE TU
+# Deploy To Heroku 🚀
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=h)
 - Fill your values and done ✅
  
 » Method - 2:
