@@ -80,7 +80,7 @@ python3 -m Safe_repo
 
 CHUTIYA H SALE TU
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=h)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/HUSTLERRRR/Save-Restricted-Content-Safe-Bot)
 - Fill your values and done ✅
  
 » Method - 2:
